@@ -1,6 +1,7 @@
 # T6---E2--Problemario
 
-# Equipo
+Integrantes:
 
-°Italia Yoselin Lozada Olvera
-°Brandon Hernández Espinosa
+  °Italia Yoselin Lozada Olvera
+
+  °Brandon Hernández Espinosa
